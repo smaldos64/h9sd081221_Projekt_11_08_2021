@@ -6,4 +6,4 @@ def AddNumbers(Number1, Number2):
 
 #test LTPE
 
-#test LTPE CloneProjekt.
+#test LTPE Fra v1.0.0 "zip" file projekt.
