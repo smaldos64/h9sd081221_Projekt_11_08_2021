@@ -14,7 +14,7 @@ def CloseProgram():
 
 def UpdateCounter():
     CurrentCount = int(CurrentCountText.get())
-    CurrentCount += 1
+    CurrentCount += 2
     CurrentCountText.set(str(CurrentCount))
 
     CurrentFunctionText.set(str(Function.AddNumbers(CurrentCount, CurrentCount)))
