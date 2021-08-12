@@ -1,5 +1,11 @@
 def AddNumbers(Number1, Number2):
-    return (Number1 + Number2)
+    return (Number1 + Number2 + Number1 + Number2)
+
+def DivideNumbers(Number1, Number2):
+    if 0 == Number2:
+        return (0)
+    else:
+        return (Number1 / Number2)
 
 def SubtractNumbers(Number1, Number2):
     return (Number1 - Number2)
@@ -11,4 +17,4 @@ def MultiplyNumbers(Number1, Number2):
 
 #test LTPE
 
-#test LTPE Fra v1.0.0 "zip" file projekt.
+#test LTPE CloneProjekt.
