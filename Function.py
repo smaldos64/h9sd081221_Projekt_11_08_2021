@@ -13,8 +13,5 @@ def SubtractNumbers(Number1, Number2):
 def MultiplyNumbers(Number1, Number2):
     return (Number1 * Number2)
 
-#test
-
-#test LTPE
-
-#test LTPE CloneProjekt.
+def SquareNumber(Number1):
+    return (Number1 * Number1)
